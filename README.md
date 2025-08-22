@@ -1,6 +1,6 @@
-# 🚀 Prueba1
+# 🚀 Projects
 
-¡Bienvenido al proyecto **Prueba1**! 🎉  
+¡Bienvenido a los proyectos de **Carlos Miranda**! 🎉  
 
 Este es un repositorio de prueba para experimentar con **Git**, **GitHub** y buenas prácticas de documentación.  
 
@@ -22,6 +22,7 @@ Este es un repositorio de prueba para experimentar con **Git**, **GitHub** y bue
 ## 🛠️ Tecnologías utilizadas
 - HTML5  
 - CSS3  
+- Django
 - JavaScript  
 
 ---
