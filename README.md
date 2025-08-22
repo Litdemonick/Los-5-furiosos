@@ -27,8 +27,4 @@ Este es un repositorio de prueba para experimentar con **Git**, **GitHub** y bue
 
 ---
 
-## 📸 Vista previa
-(Agrega aquí una imagen o gif si quieres mostrar cómo se ve tu proyecto)  
 
-```bash
-![Captura del proyecto](C:/Users/Soul-/OneDrive/Documentos/gitkrakenprojetcs/imagenes/1358516.png)
