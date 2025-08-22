@@ -21,7 +21,8 @@ Este es un repositorio de prueba para experimentar con **Git**, **GitHub** y bue
 
 ## 🛠️ Tecnologías utilizadas
 - HTML5  
-- CSS3  
+- CSS3
+- Java  
 - Django
 - JavaScript  
 
