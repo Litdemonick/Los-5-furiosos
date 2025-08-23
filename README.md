@@ -1,6 +1,6 @@
 # 🚀 Projects
 
-¡Bienvenido a los proyectos de **Carlos Miranda, Brayan Quintero, Harold Morales, Eliecias Cubilla, **! 🎉  
+¡Bienvenido a los proyectos de **Carlos Miranda, Brayan Quintero, Harold Morales, Eliecias Cubilla, E **! 🎉  
 
 Este es un repositorio de prueba para experimentar con **Git**, **GitHub** y buenas prácticas de documentación.  
 
