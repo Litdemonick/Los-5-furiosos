@@ -15,7 +15,7 @@ Este es un repositorio de prueba para experimentar con **Git**, **GitHub** y bue
 ## ✨ Características
 ✅ Código limpio y sencillo  
 ✅ Documentación clara  
-✅ Ejemplo de integración con Git y GitHub  
+✅ Ejemplo de integración con GitHub y GitKraken  
 
 ---
 
